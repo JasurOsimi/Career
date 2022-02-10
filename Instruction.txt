@@ -1,0 +1,5 @@
+1. Install Streamlit 
+( pip install streamlit )
+2. Run python code
+3. After the code has run, write to the terminal:
+	streamlit run "Your file name"
